@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Main challenges involved getting familiar with and understanding the new terminology (viewholders, views, etc.)
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
